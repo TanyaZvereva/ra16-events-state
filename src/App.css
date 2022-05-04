@@ -1,0 +1,16 @@
+.App {
+  text-align: center;
+}
+
+.list {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  flex-direction: column;
+  max-height: 1000px;
+  align-items: center;
+}
+.list>img {
+  margin: 5px;
+  width: 200px;
+}
